@@ -1,0 +1,32 @@
+:root {
+    --accent: #FF3B30; /* Dinámico */
+    --bg: #050505;
+}
+
+.hero .reveal-text {
+    font-size: 10vw;
+    font-weight: 900;
+    letter-spacing: -5px;
+    background: linear-gradient(to bottom, #fff, #444);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.tag {
+    color: var(--accent);
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 2px;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.strategy-pin h2 { font-size: 3.5rem; }
+
+.kpi-grid {
+    display: flex;
+    gap: 30px;
+}
+
+.final-box { text-align: center; }
+.final-msg { font-size: 5rem; line-height: 1; }

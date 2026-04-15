@@ -1,0 +1,7 @@
+{
+  "brand": "Parque Arauco",
+  "kpis": [
+    {"label": "Frecuencia Objetivo", "value": 3},
+    {"label": "Crecimiento LTV", "value": 150}
+  ]
+}
