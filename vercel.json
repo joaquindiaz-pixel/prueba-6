@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/brands/parque-arauco", "destination": "/brands/parque-arauco/index.html" }
+  ]
+}
