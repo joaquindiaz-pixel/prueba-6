@@ -1,8 +1,0 @@
-:root {
-  --bg:#0d0d0d; --text:#fff; --accent:#00c2ff;
-}
-body{background:var(--bg);color:var(--text);font-family:Inter;}
-.container{padding:40px;}
-.card{border:1px solid #222;padding:20px;border-radius:12px;}
-.section{min-height:100vh;display:flex;align-items:center;}
-.progress-bar{position:fixed;top:0;height:4px;background:var(--accent);width:0%;}
